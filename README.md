@@ -1,4 +1,3 @@
-#iTech Empires Demos - www.itechempires.com 
 ## PHP file upload using jQuery
 - This demo is help to learn how to upload files Asynchronously using jquery.
 
