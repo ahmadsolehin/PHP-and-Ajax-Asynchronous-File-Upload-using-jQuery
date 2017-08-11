@@ -17,6 +17,14 @@ Here I am going to explain step by step process to create the file upload featur
 <li>CSS</li>
 <li>Bootstrap</li>
 
+## let’s start some coding:
+<p>Look at the below code, from index.html file:</p>
+
+<li>index.html</li>
+
+<img width="648" alt="screen shot 2017-08-12 at 12 50 24 am" src="https://user-images.githubusercontent.com/12325386/29223227-67052cb6-7ef8-11e7-8c78-504254479b15.png">
+
+
 ## How Install? 
 - Installing is real simple 
 - Just add the source code to your php root directly and your done.
