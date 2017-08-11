@@ -1,5 +1,5 @@
 ## PHP file upload using jQuery
-- This demo is help to learn how to upload files Asynchronously using jquery.
+- how to upload files Asynchronously using jquery.
 
 ##How Install? 
 - Installing is real simple 
