@@ -8,7 +8,7 @@
 <li>CSS</li>
 <li>Bootstrap</li>
 
-##How Install? 
+## How Install? 
 - Installing is real simple 
 - Just add the source code to your php root directly and your done.
 
