@@ -29,7 +29,7 @@ Here I am going to explain step by step process to create the file upload featur
 
 <p>Submit Button: After </form> we have Submit button included with onClick event along with function call uploadFile(), we are going to write this function under script.js file, which is going to handle file upload operation.</p>
 
-Create script.js file:
+<li>Create script.js file:</li>
 
 Let’s create script.js file and add following source code in to it:
 
