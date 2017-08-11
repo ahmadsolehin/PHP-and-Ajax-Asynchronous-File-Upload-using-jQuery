@@ -5,8 +5,8 @@
 <li>PHP</li>
 <li>HTML</li>
 <li>jQuery</li>
-CSS
-Bootstrap
+<li>CSS</li>
+<li>Bootstrap>/li>
 
 ##How Install? 
 - Installing is real simple 
