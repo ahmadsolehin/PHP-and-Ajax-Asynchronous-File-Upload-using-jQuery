@@ -3,8 +3,8 @@
 
 ## The things you should know before following this tutorial:
 <li>PHP</li>
-HTML
-jQuery
+<li>HTML</li>
+<li>jQuery</li>
 CSS
 Bootstrap
 
