@@ -35,6 +35,8 @@ Let’s create script.js file and add following source code in to it:
 
 script.js:
 
+<img width="720" alt="screen shot 2017-08-23 at 12 43 53 am" src="https://user-images.githubusercontent.com/12325386/29576931-38bb20f2-879c-11e7-88a5-9ecd0c5bf901.png">
+
 
 ## How Install? 
 - Installing is real simple 
