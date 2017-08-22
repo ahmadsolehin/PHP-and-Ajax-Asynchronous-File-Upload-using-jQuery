@@ -38,6 +38,9 @@ script.js:
 <img width="720" alt="screen shot 2017-08-23 at 12 43 53 am" src="https://user-images.githubusercontent.com/12325386/29576931-38bb20f2-879c-11e7-88a5-9ecd0c5bf901.png">
 
 
+So we have our script.js file ready, here we have uploadFile() function is defined, this function is basically to check validation and get the selected file from input field and submit it to the uploadFile.php page asynchronously using ajax.
+
+
 ## How Install? 
 - Installing is real simple 
 - Just add the source code to your php root directly and your done.
