@@ -8,8 +8,6 @@ The answer is here, to upload your file from your local machine to the server (w
 
 Here I am going to explain step by step process to create the file upload feature along with the source code of this tutorial so that you can easily download and test on your local machine.
 
-
-
 ## The things you should know before following this tutorial:
 <li>PHP</li>
 <li>HTML</li>
@@ -40,6 +38,7 @@ script.js:
 
 So we have our script.js file ready, here we have uploadFile() function is defined, this function is basically to check validation and get the selected file from input field and submit it to the uploadFile.php page asynchronously using ajax.
 
+<img width="721" alt="screen shot 2017-08-23 at 12 45 51 am" src="https://user-images.githubusercontent.com/12325386/29577007-7478cb58-879c-11e7-8304-be18da5f58f6.png">
 
 ## How Install? 
 - Installing is real simple 
