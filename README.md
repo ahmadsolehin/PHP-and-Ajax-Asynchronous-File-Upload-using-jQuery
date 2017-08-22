@@ -44,7 +44,6 @@ So we have our script.js file ready, here we have uploadFile() function is defin
 - Installing is real simple 
 - Just add the source code to your php root directly and your done.
 
-
-
 ## screenshot
 
+<img width="678" alt="screen shot 2017-08-23 at 12 46 52 am" src="https://user-images.githubusercontent.com/12325386/29577044-97527336-879c-11e7-94b8-e88361619ffa.png">
